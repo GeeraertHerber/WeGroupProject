@@ -1,2 +1,2 @@
 # WeGroupProject
-Industry Project
+Industry Project voor WeGroup
